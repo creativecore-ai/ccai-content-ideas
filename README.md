@@ -3,7 +3,7 @@
 > Structured content idea generation that compounds over time. Not a one-shot brainstormer, a content radar.
 
 
-> **Part of [ccai-skills-pack](https://github.com/cory-dot/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
+> **Part of [ccai-skills-pack](https://github.com/creativecore-ai/ccai-skills-pack)**, Creative Core AI's 26-skill library. Install this skill standalone (see below), or grab the full pack in one go.
 
 **Slash command:** `/ccai-content-ideas`
 **Status:** v0.1 · works with Claude Code
@@ -50,7 +50,7 @@ No API keys. No external services. No "Reddit trend scraper." You bring the obse
 ## Install
 
 ```bash
-git clone https://github.com/cory-dot/ccai-content-ideas ~/.claude/skills/ccai-content-ideas
+git clone https://github.com/creativecore-ai/ccai-content-ideas ~/.claude/skills/ccai-content-ideas
 ```
 
 Restart Claude Code or run `/doctor` to confirm.
@@ -118,14 +118,14 @@ Coming in `ccai-content-ideas-pro`, adds Apify/Reddit/Google Trends auto-feed fo
 
 ## Part of the Creative Core AI skills pack
 
-This skill is part of [`ccai-skills-pack`](https://github.com/cory-dot/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
+This skill is part of [`ccai-skills-pack`](https://github.com/creativecore-ai/ccai-skills-pack), the full Creative Core AI skill library (26 skills total). Two ways to install:
 
 ```bash
 # Just this skill (ad-hoc)
-git clone https://github.com/cory-dot/ccai-content-ideas ~/.claude/skills/ccai-content-ideas
+git clone https://github.com/creativecore-ai/ccai-content-ideas ~/.claude/skills/ccai-content-ideas
 
 # Or the entire pack
-git clone https://github.com/cory-dot/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
+git clone https://github.com/creativecore-ai/ccai-skills-pack ~/ccai-skills-pack && cd ~/ccai-skills-pack && ./install.sh
 ```
 
 The full pack is taught in [The AI Operator's Playbook](https://skool.com/creative-core-ai), our free Skool course for non-technical business owners.
